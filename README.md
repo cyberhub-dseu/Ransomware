@@ -7,6 +7,7 @@ This repository contains the code used in our educational video on creating rans
 ## Contents
 
 - `ransomware.py`: The main Python script demonstrating the ransomware creation process.
+- `Decrypt.py`: The main Python script monstrating the ransomware creation process.
 - `README.md`: This document, providing an overview and guidelines.
 - `requirements.txt`: A list of dependencies needed to run the script.
 
